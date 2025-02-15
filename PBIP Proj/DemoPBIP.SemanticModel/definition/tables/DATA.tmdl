@@ -5,6 +5,10 @@ table DATA
 		formatString: 0
 		lineageTag: ee8365d6-0b93-4bf0-adac-82efd2c5f339
 
+	measure DoGunaQTy = [Qty1] * 2
+		formatString: 0
+		lineageTag: d4dbe874-72a2-4deb-b41f-90e5a6e98cbd
+
 	column Name
 		dataType: string
 		lineageTag: 9da8b53b-1ea6-47dc-b7cc-4fd6f9dfc287
