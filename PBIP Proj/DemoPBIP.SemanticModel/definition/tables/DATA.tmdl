@@ -9,6 +9,10 @@ table DATA
 		formatString: 0
 		lineageTag: d4dbe874-72a2-4deb-b41f-90e5a6e98cbd
 
+	measure '3 Guna' = [Qty1] * 3
+		formatString: 0
+		lineageTag: 3fe1625a-7fcf-4d86-a5fc-c1202caaf37c
+
 	column Name
 		dataType: string
 		lineageTag: 9da8b53b-1ea6-47dc-b7cc-4fd6f9dfc287
