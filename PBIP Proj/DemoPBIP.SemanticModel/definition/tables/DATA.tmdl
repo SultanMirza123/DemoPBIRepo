@@ -1,6 +1,10 @@
 table DATA
 	lineageTag: 2a3e6a63-6f35-47b5-b01e-2282f82acc7d
 
+	measure Qty1 = SUM( DATA[Qty] )
+		formatString: 0
+		lineageTag: ee8365d6-0b93-4bf0-adac-82efd2c5f339
+
 	column Name
 		dataType: string
 		lineageTag: 9da8b53b-1ea6-47dc-b7cc-4fd6f9dfc287
