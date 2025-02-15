@@ -34,6 +34,15 @@
           "x": 526.22,
           "y": 223.29,
           "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"c011947c1b28f70b3071\",\"layouts\":[{\"id\":0,\"position\":{\"x\":760.6018629090041,\"y\":442.6653928827323,\"z\":1,\"width\":450.00238834487703,\"height\":145.51707666587055}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"DATA.DoGunaQTy\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"DATA\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"DoGunaQTy\"},\"Name\":\"DATA.DoGunaQTy\",\"NativeReferenceName\":\"DoGunaQTy\"}]},\"autoSelectVisualType\":true,\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 145.52,
+          "width": 450.00,
+          "x": 760.60,
+          "y": 442.67,
+          "z": 1.00
         }
       ],
       "width": 1280.00
